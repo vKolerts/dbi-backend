@@ -1,0 +1,21 @@
+{
+  "name": "dbi-backend",
+  "version": "1.0.1",
+  "description": "DBI backend nodejs",
+  "main": "index.js",
+  "bin": "./bin/dbi-backend",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dbi",
+    "switch",
+    "nsp",
+    "nsz"
+  ],
+  "author": "v.Kolerts",
+  "license": "ISC",
+  "dependencies": {
+    "switch-dbi": "1.0.0"
+  }
+}
