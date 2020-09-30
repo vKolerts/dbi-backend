@@ -1,7 +1,7 @@
 {
   "name": "dbi-backend",
-  "version": "1.0.1",
-  "description": "DBI backend nodejs",
+  "version": "1.0.2",
+  "description": "DBI backend cli",
   "main": "index.js",
   "bin": "./bin/dbi-backend",
   "scripts": {
@@ -9,13 +9,20 @@
   },
   "keywords": [
     "dbi",
+    "dbibackend",
+    "dbi-cli",
     "switch",
     "nsp",
     "nsz"
   ],
   "author": "v.Kolerts",
+  "email": "str.mail.ru@bk.ru",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vKolerts/dbi-backend"
+  },
   "license": "ISC",
   "dependencies": {
-    "switch-dbi": "1.0.0"
+    "switch-dbi": "1.1.1"
   }
 }

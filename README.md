@@ -1,5 +1,5 @@
-# DBI backend application
-Node.JS port of https://github.com/lunixoid/dbibackend
+# DBI backend cli-application
+Use Node.JS port of https://github.com/lunixoid/dbibackend
 
 ### Install
 ```sh
