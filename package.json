@@ -1,6 +1,6 @@
 {
   "name": "dbi-backend",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "DBI backend cli",
   "main": "index.js",
   "bin": "./bin/dbi-backend",
@@ -23,6 +23,6 @@
   },
   "license": "ISC",
   "dependencies": {
-    "switch-dbi": "1.1.1"
+    "switch-dbi": "1.1.3"
   }
 }
